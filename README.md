@@ -29,8 +29,8 @@ A Spring Boot application that leverages Google's Gemini AI to automatically gen
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/Antony-Godwin24/Question-Paper-Generator.git
-    cd Question-Paper-Generator
+    git clone https://github.com/Anandheeswaran/Qn-Paper-Generator.git
+
     ```
 
 2.  **Configure Database**
